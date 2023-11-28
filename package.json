@@ -1,0 +1,19 @@
+{
+  "name": "nowgray_crm",
+  "version": "1.0.0",
+  "description": "Nowgray crm software.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "Nowgray",
+    "crm"
+  ],
+  "author": "Amit",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
